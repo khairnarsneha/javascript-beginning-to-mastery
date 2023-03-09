@@ -1,4 +1,4 @@
-"use strict";
+"use strict";   // use strict module galtiya karne se bachata hai
 // intro to variables
 
 // variables can store some information
