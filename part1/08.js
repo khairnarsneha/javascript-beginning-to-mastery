@@ -13,6 +13,7 @@
 // let firstName = "harshit";
 
 // // console.log(typeof age);
+// console.log(typeof firstName);
 
 // // 22 -> "22"
 // // convert number to string. 
