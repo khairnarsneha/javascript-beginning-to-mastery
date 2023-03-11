@@ -6,5 +6,5 @@ let firstName = "harshit"
 // let aboutMe = "my name is " + firstName + " and my age is " + age; 
 
 let aboutMe = `my name is ${firstName} and my age is ${age}`
-
+//Backtick, doller & placeholder {}
 console.log(aboutMe);
